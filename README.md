@@ -38,7 +38,7 @@ Vital is a next-generation clinical physiological health evaluation and diagnost
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/Eswar5048/vital-health-analysis.git
+git clone https://github.com/Tejasri-paluru/vital-health-analysis.git
 
 # Navigate into project directory
 cd vital-health-analysis
